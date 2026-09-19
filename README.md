@@ -162,15 +162,14 @@ El producto con ID 100 NO existe.
 ----
  ## 7. Evidencias de ejecución
 
- ## Menú principal
- [Menú](Menu.jpeg)
- ## Registro de productos 
- [Registro](registro.jpeg)
- ## Búsqueda de productos 
- [Búsqueda](busqueda.jpeg)
- ## INORDEN
- [INORDEN](inorden.jpeg)
-
+ Menú principal
+ (Menu.jpeg)
+ Registro de productos 
+ (registro.jpeg)
+ Búsqueda de productos 
+ (busqueda.jpeg)
+  INORDEN
+ (inorden.jpeg)
  ----
  ## 8. Video de sustentación
  [Ver video] 
