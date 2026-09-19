@@ -125,6 +125,7 @@ Ingrese el ID del producto: 50
 Ingrese el nombre del producto: Computador
 
 Producto registrado con éxito.
+---
 2. Mostrar inventario
 
 La opción 2 realiza un recorrido inorden del árbol.
@@ -143,6 +144,7 @@ ID: 20 | Producto: Mouse
 ID: 35 | Producto: Teclado
 ID: 50 | Producto: Computador
 ID: 70 | Producto: Monitor
+---
 3.  Buscar un producto
 
 La opción 3 permite ingresar un ID para comprobar si el producto existe dentro del inventario.
